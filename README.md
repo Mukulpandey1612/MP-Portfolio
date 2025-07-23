@@ -4,7 +4,7 @@ Welcome to my **personal portfolio website** built using HTML, CSS, and JavaScri
 
 ## 🔗 Live Website
 
-👉 https://mukulpandey-portfolio.netlify.app/ 
+👉 https://mukulpandey-portfolio.netlify.app/
 📅 Last Updated: July 2025
 
 ---
